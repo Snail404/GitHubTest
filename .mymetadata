@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GitHubTest"
+  id="myeclipse.1496021328450"
+  context-root="/GitHubTest"
+  j2ee-spec="5.0"
+  archive="GitHubTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
